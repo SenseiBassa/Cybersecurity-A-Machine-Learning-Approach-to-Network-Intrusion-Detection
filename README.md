@@ -1,6 +1,7 @@
 # Cybersecurity-A-Machine-Learning-Approach-to-Network-Intrusion-Detection
-Leveraging Machine Learning to solve a Cybersecurity threat using Network Intrusion Detection.
-Presented by: Bassa, Joshua Samuel.
+![856d6ed0bd41adf613fadc1f3b8b7e87](https://github.com/SenseiBassa/Cybersecurity-A-Machine-Learning-Approach-to-Network-Intrusion-Detection/assets/98027992/9598ec1b-17af-4e8a-90fc-988b1e68c856)
+
+Presenteby: Bassa, Joshua Samuel.
 
 Project introduction:
 
@@ -25,9 +26,12 @@ Business Focus:
 
 Tools:
 • Python
+![6f06f467424256a98d2ede1c965b8c6e](https://github.com/SenseiBassa/Cybersecurity-A-Machine-Learning-Approach-to-Network-Intrusion-Detection/assets/98027992/2881fe4d-776d-47c0-a2da-a7d5b1411817)
 
 Business Introduction:
 SecureTech Solutions Inc. stands at the forefront of the cybersecurity industry, distinguishing itself through a dedicated focus on delivering state-of-the-art solutions that shield businesses from the ever-evolving landscape of cyber threats. Backed by a cadre of exceptionally proficient professionals, SecureTech is driven by an unwavering dedication to pioneering advancements in the field. This steadfast commitment has forged a robust legacy, positioning the company as an unparalleled guardian of clients' invaluable data and vital systems, capable of warding off an extensive array of cyber assaults.
+
+![23bb13f0aff0ea92d7b5300f018fd036](https://github.com/SenseiBassa/Cybersecurity-A-Machine-Learning-Approach-to-Network-Intrusion-Detection/assets/98027992/0efdb289-3b79-4bcf-8112-8bfdeec8f267)
 
 Business Problem: 
 This surge in ransomware attacks targeting SecureTech Solutions Inc.'s clients underscores concerning trend in cybersecurity. The attackers have demonstrated a worrisome level of adaptability, deploying increasingly sophisticated tactics that outpace traditional security measures. Beyond the immediate financial implications, these assaults carry the weighty consequence of eroding the trust and reputation that SecureTech has painstakingly built As the company continues to grapple with this evolving threat landscape, its unwavering commitment to innovation and expertise remains paramount in safeguarding clients' critical assets and preserving their confidence in the face of such challenges.
@@ -49,6 +53,8 @@ Develop an Effective Ransomware Detection System: Create a machine learning mode
 Minimize False Positives and False Negatives: Implement algorithms and techniques to reduce false alarms and improve the efficiency of security projections.
 
 Ensure explainable predictions: Develop a machine learning model which is explainable and can give insights to cyber analysts as regards the fundamentals underlying malware attacks.
+
+![856d6ed0bd41adf613fadc1f3b8b7e87](https://github.com/SenseiBassa/Cybersecurity-A-Machine-Learning-Approach-to-Network-Intrusion-Detection/assets/98027992/8c11be0b-aa64-4dd0-a350-7a2af55150b6)
 
 Data Description:
 
@@ -226,6 +232,9 @@ Distributed and parallelized operations for big data, and
 
 Optimized ML. algorithms.
 
+![a9c4004023509ab13b17f7ba539832ff](https://github.com/SenseiBassa/Cybersecurity-A-Machine-Learning-Approach-to-Network-Intrusion-Detection/assets/98027992/30027362-ec61-4a6b-8885-253f30bdf3ce)
+
+
   Project Implementation via CRISP-DM
 01. Business Understanding
 Secure Tech is a cybersecurity firm with a strong foothold in cyberspace. They are presently interested in beefing up their cybersecurity protocols, but for this, they need to be able to detect network attacks efficiently and timely. As such, you have been employed with the goal of building a machine learning model that can do this.
@@ -268,3 +277,5 @@ Remove invariant and irrelevant columns. The invariant and irrelevant columns wi
 Feature Scaling: The data will be scaled using the Standard Scaler implementation provided by Sci-kit Learn.
 Feature Selection: The non-numerical features of the dataset are filtered out, and the numerical features are retained. This is done in order to avoid complicated feature engineering.
 Distributed Computing: In order to satisfy the need for optimal computation, most of (if not all) the algorithms used will be obtained from PySpark. All these steps are implemented as below:
+
+
