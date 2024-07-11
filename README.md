@@ -26,6 +26,7 @@ Business Focus:
 
 Tools:
 • Python
+
 ![6f06f467424256a98d2ede1c965b8c6e](https://github.com/SenseiBassa/Cybersecurity-A-Machine-Learning-Approach-to-Network-Intrusion-Detection/assets/98027992/2881fe4d-776d-47c0-a2da-a7d5b1411817)
 
 Business Introduction:
